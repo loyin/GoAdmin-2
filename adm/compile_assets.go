@@ -81,3 +81,4 @@ func parseInput(path string) bindata.InputConfig {
 		Recursive: false,
 	}
 }
+ 
